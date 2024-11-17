@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "inventoryService",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731853400829,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZmQ0OWY4MTA2ODkxYmYwNDQxZTJiZDg4NjMyMTllNzA3ZThlYmUwYjRiZmU1YTNlMGE1MTg1OThhODU1YTg0NmNmNDQwNzA1MGRmNzcxOTQ0ZTM3NTA0NTI4NGZjYWQ3ODg5ODBiYTgwOGRlYjhlM2JmN2QwYWIwNTlmN2M2MDc=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
